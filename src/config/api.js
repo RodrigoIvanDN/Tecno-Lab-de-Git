@@ -2,8 +2,8 @@
 export const API_CONFIG = {
   BASE_URL: 'http://185.218.124.154:8800/api',
   ENDPOINTS: {
-    LOGIN: '/users/users/login/',
-    PROFILE: '/users/users/profile/',
+    LOGIN: '/users/login/',
+    PROFILE: '/users/profile/',
     PRODUCTS: '/inventory/products/',
     CATEGORIES: '/inventory/categories/',
     CUSTOMERS: '/sales/customers/',
